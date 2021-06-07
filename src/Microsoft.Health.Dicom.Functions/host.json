@@ -13,5 +13,9 @@
       "batchSize": 1000,
       "parallelBatches": 10
     }
+  },
+  "OrchestrationsCleanup": {
+    "RuntimeStatuses": [ "Completed" ],
+    "MinimumAgeDays": 14
   }
 }
